@@ -1,5 +1,5 @@
 ---
-title: 'Juvenile Snowshoe Hares: exploratory report'
+title: 'Juvenile Snowshoe Hares: Exploratory Report'
 author: "Jonah Seif"
 date: "11/18/2020"
 output: html_document
